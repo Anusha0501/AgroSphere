@@ -1,5 +1,5 @@
 
-# 🌾 Agrosphere
+# 🌾 AgroSphere
 
 Agrosphere is an AI-powered conversational assistant designed to support agricultural knowledge dissemination. It leverages modern language models, embedding techniques, and a local vector database to answer user queries based on agricultural documents.
 
